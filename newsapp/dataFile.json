@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+      {
+        "source": {
+          "id": "buzzfeed",
+          "name": "Buzzfeed"
+        },
+        "author": "Stan Shunpike",
+        "title": "14 Movies And TV Shows That Glamorized Acts Of Evil",
+        "description": "Who glorifies rape culture? Disgusting.",
+        "url": "https://www.buzzfeed.com/feynman12/movies-and-tv-shows-that-glamorized-evil",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-03/23/20/campaign_images/af45a6493ab1/14-movies-and-tv-shows-that-glamorized-what-i-fee-3-2353-1679604564-2_dblbig.jpg",
+        "publishedAt": "2023-03-27T02:22:16.3289221Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Bloomberg",
+        "title": "Why Apple, Amazon Are Making $1 Billion Bets on Movie Theaters",
+        "description": "null",
+        "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9uZXdzbGV0dGVycy8yMDIzLTAzLTI2L3doeS1hcHBsZS1hbWF6b24tYXJlLW1ha2luZy0xLWJpbGxpb24tYmV0cy1vbi1tb3ZpZS10aGVhdGVyc9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-26T22:00:35+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": null,
+        "title": "Want more like John Wick 4? Here are 12 epic action movies to stream",
+        "description": "Need another action fix after watching John Wick: Chapter 4? We've got you covered",
+        "url": "https://www.techradar.com/features/want-more-like-john-wick-4-here-are-12-epic-action-movies-to-stream",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/qiqJzrBg35Eduptc6fzEvc-1200-80.jpg",
+        "publishedAt": "2023-03-25T14:00:25Z",
+        "content": "After a four-year absence from the big screen, John Wick has returned. Everyone's favorite modern-day action hero is here to kick butt once more, with John Wick: Chapter 4 finally landing in theaters… [+14997 chars]"
+      },
+      {
+        "source": {
+          "id": "entertainment-weekly",
+          "name": "Entertainment Weekly"
+        },
+        "author": "Christian Holub",
+        "title": "What's new on Netflix in March 2023: The Hangover, Luther: Fallen Sun, Shadow and Bone season 2, more",
+        "description": "Check out the full list of movies and TV shows coming to the streaming service next month.",
+        "url": "https://ew.com/tv/whats-new-on-netflix-in-march-2023/",
+        "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C23%2C2000%2C1023&poi=%5B1320%2C493%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F02%2F22%2FHangover-Luther-Fallen-Sun-Shadow-and-Bone-022223.jpg",
+        "publishedAt": "2023-03-01T16:00:00Z",
+        "content": "As February winds down, Netflix has unveiled which movies and TV shows will be joining its service over the course of March. As usual, the lineup includes a lot of original content — including the se… [+3310 chars]"
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Collier Jennings",
+        "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+        "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+        "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+        "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+        "publishedAt": "2022-09-01T18:03:14Z",
+        "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": null,
+        "title": "Daily Briefing",
+        "description": "The day's top stories, from sports to movies to politics to world events.",
+        "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+        "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+        "publishedAt": "2021-08-15T15:35:07+00:00",
+        "content": "The day's top stories, from sports to movies to politics to world events."
+      },
+      {
+        "source": {
+          "id": "techcrunch-cn",
+          "name": "TechCrunch (CN)"
+        },
+        "author": "Brian Heater",
+        "title": "盘点 2019 年消失的明星创业公司 | TechCrunch 中文版",
+        "description": "创业公司会因为各种原因而失败，但有一点不会改变：创业是极其困难的事。想要创办一家成功的公司，需要的不仅仅是热情，以及找到合适的人才（尽管很明显这两点很重要）。成功的创业者需要在许许多多细节上做到完美。\r\n\r\n粗略地回顾下今年的创业公司，可以发现并没有什么公司能带来像去年Theranos那样的轰动性故事。Theranos的故事被写成了畅销书，改编成了纪录片，相关电影也即将上映。不过某些公司，例如MoviePass，可能已经逐渐接近。\r\n\r\n通常来说，每看到一家Theranos，我们同时也会看到数十位辛勤创业者的故事…",
+        "url": "https://techcrunch.cn/2019/12/27/startups-lost-in-2019/",
+        "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-829632570.jpg?w=1200",
+        "publishedAt": "2019-12-27T16:46:58Z",
+        "content": "Theranos Theranos MoviePass\r\n Theranos\r\n 2019 \r\nAnki2010 2019 \r\n1.82 \r\n2013 WWDC Overdrive iPhone \r\n3 Anki CozmoAnki 2018 Vector 2019 4 Anki 150 “”Cozmo \r\nChariot2014 2019 \r\n300 2017 \r\nChariot “” \r\n … [+1085 chars]"
+      }
+    ]
+  }
